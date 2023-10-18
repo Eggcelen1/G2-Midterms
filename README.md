@@ -354,7 +354,7 @@
 </p>  
 
    <p align="center">
-  <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/943de1bd-2efa-4fe8-aadb-ba5ab7c8669c">
+  <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/9f6e2117-7da7-4cf0-8e23-81bd42723841">
 </p> 
 
    <p align="center">
