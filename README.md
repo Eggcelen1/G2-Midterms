@@ -350,7 +350,7 @@
 -------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/fda2b758-2e8d-4934-adea-e2f7268d1b89">
+  <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/0515cd2a-f6b4-4d2d-9346-a47e528ba197">
 </p>  
 
    <p align="center">
