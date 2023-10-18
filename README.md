@@ -346,12 +346,14 @@
    <p align="center">
   <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/06c3725c-ff24-4560-8dd7-87695faf0c4c">
 </p>  
-   <p align="center">
-  <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/dff26a54-0ade-406a-a1c0-3cedbce5c5c0">
-</p> 
 
 -------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/fda2b758-2e8d-4934-adea-e2f7268d1b89">
 </p>  
+
+   <p align="center">
+  <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/dff26a54-0ade-406a-a1c0-3cedbce5c5c0">
+</p> 
+
