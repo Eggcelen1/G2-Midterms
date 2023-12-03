@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/Eggcelen1/G2-Midterms/assets/144224540/ce61609e-f78d-415c-80d2-6d3a8bf5146a">
 </p>
 
